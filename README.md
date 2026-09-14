@@ -84,28 +84,9 @@ const saad = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaadNatiqNori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaadNatiqNori&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=SaadNatiqNori&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadNatiqNori&theme=tokyonight" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🟩 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58A6FF/SaadNatiqNori" alt="Contribution Chart" width="100%" />
 
 </div>
 
@@ -135,12 +116,3 @@ const saad = {
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
-**Thanks for visiting! ⭐ Star a repo if something here helped you.**
-
-</div>
