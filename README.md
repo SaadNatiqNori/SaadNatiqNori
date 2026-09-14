@@ -86,26 +86,26 @@ const saad = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadNatiqNori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadNatiqNori&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaadNatiqNori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaadNatiqNori&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadNatiqNori&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=SaadNatiqNori&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadNatiqNori&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadNatiqNori&theme=tokyonight" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🟩 Contribution Calendar
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaadNatiqNori&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://ghchart.rshah.org/58A6FF/SaadNatiqNori" alt="Contribution Chart" width="100%" />
 
 </div>
 
