@@ -17,9 +17,9 @@
 ```javascript
 const saad = {
   name:       "Saad Natiq Nori",
-  location:   "Erbil, Iraq 🇮🇶",
+  location:   "Erbil, Kurdistan, Iraq",
   role:       "Full Stack Developer",
-  experience: "4+ years",
+  experience: "6+ years",
   education:  "B.Sc. Information Technology, Duhok Polytechnic University",
   currently:  "Building products, dashboards and mobile apps",
   passion:    ["clean code", "solving complex problems", "teamwork"],
